@@ -5,8 +5,4 @@ Built with **Java (Swing)** for the frontend and **PostgreSQL** for the backend,
 
 Lourena Barros 
 
-## 📸 Screenshots
-
-
-<img width="472" alt="Screenshot 2025-06-30 at 20 40 22" src="https://github.com/user-attachments/assets/a6b1f9d2-9b32-4b67-b6c0-feb3f190f791" />
 
